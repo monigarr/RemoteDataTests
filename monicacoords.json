@@ -1,0 +1,150 @@
+{
+	"batchcomplete": "",
+	"query": {
+		"geosearch": [{
+			"pageid": 260056,
+			"ns": 0,
+			"title": "Massena (village), New York",
+			"lat": 44.930277777778,
+			"lon": -74.890833333333,
+			"dist": 138.3,
+			"primary": ""
+		}, {
+			"pageid": 999999,
+			"ns": 0,
+			"title": "Monica’s Workspace Massena Office“,
+			"lat": 44.929719289332354,
+			"lon": -74.895709481481,
+			"dist": 1.0,
+			"primary": ""
+		},  {
+			"pageid": 999998,
+			"ns": 0,
+			"title": "Monica’s Office Front Door“,
+			"lat": 44.92963426890884,
+			"lon": -74.88924559469751,
+			"dist": 3.0,
+			"primary": ""
+		}, {
+			"pageid": 260057,
+			"ns": 0,
+			"title": "Massena, New York",
+			"lat": 44.930277777778,
+			"lon": -74.8925,
+			"dist": 269.3,
+			"primary": ""
+		}, {
+			"pageid": 2546820,
+			"ns": 0,
+			"title": "Massena International Airport",
+			"lat": 44.935833333333,
+			"lon": -74.845555555556,
+			"dist": 3483.6,
+			"primary": ""
+		}, {
+			"pageid": 22389438,
+			"ns": 0,
+			"title": "1944 Cornwall\u2013Massena earthquake",
+			"lat": 44.956,
+			"lon": -74.833,
+			"dist": 5265.8,
+			"primary": ""
+		}, {
+			"pageid": 8900384,
+			"ns": 0,
+			"title": "Massena Center, New York",
+			"lat": 44.96,
+			"lon": -74.831388888889,
+			"dist": 5622.7,
+			"primary": ""
+		}, {
+			"pageid": 47053034,
+			"ns": 0,
+			"title": "Eisenhower Lock",
+			"lat": 44.97937,
+			"lon": -74.84956,
+			"dist": 6292.5,
+			"primary": ""
+		}, {
+			"pageid": 565712,
+			"ns": 0,
+			"title": "Robert Moses State Park (Thousand Islands)",
+			"lat": 44.99,
+			"lon": -74.85,
+			"dist": 7328.6,
+			"primary": ""
+		}, {
+			"pageid": 1051018,
+			"ns": 0,
+			"title": "The Lost Villages",
+			"lat": 44.993,
+			"lon": -74.9241,
+			"dist": 7509.5,
+			"primary": ""
+		}, {
+			"pageid": 1051096,
+			"ns": 0,
+			"title": "Dickinson's Landing, Ontario",
+			"lat": 44.9934,
+			"lon": -74.9249,
+			"dist": 7574.1,
+			"primary": ""
+		}, {
+			"pageid": 3181070,
+			"ns": 0,
+			"title": "Long Sault Provincial Park",
+			"lat": 44.996,
+			"lon": -74.923,
+			"dist": 7790.7,
+			"primary": ""
+		}, {
+			"pageid": 1051121,
+			"ns": 0,
+			"title": "Santa Cruz, Ontario",
+			"lat": 44.9951,
+			"lon": -74.9355,
+			"dist": 8090.5,
+			"primary": ""
+		}, {
+			"pageid": 47790753,
+			"ns": 0,
+			"title": "Croil Island",
+			"lat": 44.973,
+			"lon": -74.979,
+			"dist": 8529.1,
+			"primary": ""
+		}, {
+			"pageid": 1051119,
+			"ns": 0,
+			"title": "Woodlands, Ontario",
+			"lat": 44.9941,
+			"lon": -74.9515,
+			"dist": 8639.6,
+			"primary": ""
+		}, {
+			"pageid": 1389686,
+			"ns": 0,
+			"title": "Long Sault",
+			"lat": 45.009,
+			"lon": -74.88,
+			"dist": 8794,
+			"primary": ""
+		}, {
+			"pageid": 1051114,
+			"ns": 0,
+			"title": "Wales, Ontario",
+			"lat": 45.0099,
+			"lon": -74.9202,
+			"dist": 9196.8,
+			"primary": ""
+		}, {
+			"pageid": 1051554,
+			"ns": 0,
+			"title": "Sheek's Island",
+			"lat": 45.0152,
+			"lon": -74.8499,
+			"dist": 9944.1,
+			"primary": ""
+		}]
+	}
+}
